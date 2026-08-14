@@ -1,16 +1,38 @@
-## Hi there 👋
+             👋 Hi, I'm Himanshu
 
-<!--
-**HimnshuKumar7/HimnshuKumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🎓 IIT Guwahati | 🤖 ML & Data Science
+    💻 DSA | Python | C++ | SQL
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+   • B.Tech student
+   • Machine Learning
+   • Data Science
+   • Competitive Programming
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Python    C++    Java    SQL
+
+NumPy     Pandas     Scikit-Learn
+XGBoost   PyTorch
+
+React     Node.js    MongoDB
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+       [ GitHub Stats Card ]
+
+       [ Top Languages Card ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 Coding Profiles
+
+[LeetCode] [Codeforces] [LinkedIn] [GitHub]
