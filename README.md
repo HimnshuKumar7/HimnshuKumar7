@@ -5,6 +5,7 @@
   💻 Data Science |
   🧩 DSA
 </p>
+
 <p align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/HimnshuKumar7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/himan__gg/)
@@ -39,13 +40,6 @@
 ## 🧩 LeetCode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/himan__gg?ext=heatmap" alt="himan__gg's LeetCode Stats"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HimnshuKumar7&theme=dark" alt="HimnshuKumar7's GitHub Stats"/>
 </p>
 
 ---
