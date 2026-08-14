@@ -61,7 +61,7 @@
 ## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=https://leetcode.com/u/himan__gg/"/>
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=himan__gg"/>
 </p>
 
 ---
