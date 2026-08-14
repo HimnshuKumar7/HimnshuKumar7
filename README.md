@@ -18,7 +18,7 @@
 - 🎓 B.Tech student at IIT Guwahati
 - 🤖 Interested in Machine Learning and Data Science
 - 🧩 Practicing Data Structures & Algorithms
-- 🐍 Building ML algorithms from scratch using NumPy
+- 🐍 Building ML algorithms from scratch 
 
 ---
 
