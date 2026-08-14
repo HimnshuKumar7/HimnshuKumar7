@@ -52,8 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimnshuKumar7&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimnshuKumar7&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github.com/HimnshuKumar7.png" width="150" style="border-radius:50%;"/>
 </p>
 
 ---
@@ -61,7 +60,7 @@
 ## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=himan__gg"/>
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=<himan__gg>"/>
 </p>
 
 ---
