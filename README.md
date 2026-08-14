@@ -25,7 +25,7 @@
 - 🤖 Interested in Machine Learning and Data Science
 - 🧩 Practicing Data Structures & Algorithms
 - 🐍 Building ML algorithms from scratch using NumPy
-- 🚀 Working on real-world projects
+
 
 ---
 
@@ -61,7 +61,7 @@
 ## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=himan__gg"/>
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=https://leetcode.com/u/himan__gg/"/>
 </p>
 
 ---
